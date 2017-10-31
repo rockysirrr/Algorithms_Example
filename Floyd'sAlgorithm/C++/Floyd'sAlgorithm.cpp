@@ -13,7 +13,7 @@ void push(struct Node** head_ref, int new_data)
     /* allocate node */
     struct Node* new_node = (struct Node*) malloc(sizeof(struct Node));
  
-    /* put in the data  */
+    /* putta  */
     new_node->data  = new_data;
  
     /* link the old list off the new node */
