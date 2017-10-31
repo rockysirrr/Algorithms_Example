@@ -8,7 +8,7 @@ int gcd(int a,int b)
 	 else
 	 	return gcd(b,(a%b));
 }
-//Driver program 
+
 int main()
 {
 	int a,b;
