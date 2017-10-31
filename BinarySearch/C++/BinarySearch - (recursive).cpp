@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//simple recursive binary Search
+//simple recursive binary 
 //'low' is the lower index & 'high' is the upper index & 'key' is the value to be searched
 
 int binarySearch(int low,int high,int key)
